@@ -1,0 +1,14 @@
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
